@@ -2,7 +2,7 @@
 - 👀 I’m interested in astronomy, education, and technology
 - 🌱 I’m currently learning Computer Science at Villanova University
 - 💞️ I’m looking to collaborate on EduTech
-- 📫 How to reach me: Email hiepnguyenduc2006@gmail.com
+- 📫 How to reach me: Email hiepnguyenduc2005@gmail.com
 
 <!---
 hiepnguyenduc2005/hiepnguyenduc2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
