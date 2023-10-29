@@ -7,7 +7,7 @@
 
 💞️ My deep-rooted interest in Education propels my vision: applying Cognitive AI in behavioral economics or personalized STEM Education. My long-term goal is to develop an ecosystem where Vietnamese children can access personalized learning with high-quality and zero-cost science resources.
 
-🌐 You can find me on [![LinkedIn][1.1]][1] or [![Gmail][✉️]](mailto:hiepnguyenduc2005@gmail.com).
+🌐 You can find me on [![LinkedIn][1.1]][1] or [![✉️]](mailto:hiepnguyenduc2005@gmail.com).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
