@@ -22,8 +22,12 @@
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
-![](https://raw.githubusercontent.com/hiepnguyenduc2005/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/hiepnguyenduc2005/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<a href="https://github.com/hiepnguyenduc2005/hiepnguyenduc2005/">
+  <img align="center" src="https://raw.githubusercontent.com/hiepnguyenduc2005/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/hiepnguyenduc2005/hiepnguyenduc2005/">
+  <img align="center" src="https://raw.githubusercontent.com/hiepnguyenduc2005/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Roger's GitHub Stats" />
+</a>
 
 <!-- links to social media icons -->
 
