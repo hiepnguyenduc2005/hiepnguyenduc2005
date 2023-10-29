@@ -1,6 +1,6 @@
-[![Header](https://github.com/hiepnguyenduc2005/hiepnguyenduc2005/blob/main/1.2-compressed.jpg "Header")](http://positivevsnegative.pythonanywhere.com/)
-
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+<a href="http://positivevsnegative.pythonanywhere.com/">
+  <img src="https://github.com/hiepnguyenduc2005/hiepnguyenduc2005/assets/130782979/278853198-5dd6aa47-df46-45f4-8806-a4e1e7008fcf.jpg" alt="Header" title="Header" width="200">
+</a>
 
 - 👋 Hi, I’m @hiepnguyenduc2005
 - 👀 I’m interested in astronomy, education, and technology
