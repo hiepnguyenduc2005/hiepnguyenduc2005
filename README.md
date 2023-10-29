@@ -22,12 +22,8 @@
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
-<a href="https://github.com/hiepnguyenduc2005/hiepnguyenduc2005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepnguyenduc2005&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/hiepnguyenduc2005/hiepnguyenduc2005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiepnguyenduc2005&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!-- links to social media icons -->
 
