@@ -7,7 +7,7 @@
 
 💞️ My deep-rooted interest in Education propels my vision: applying Cognitive AI in behavioral economics or personalized STEM Education. My long-term goal is to develop an ecosystem where Vietnamese children can access personalized learning with high-quality and zero-cost science resources.
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][1.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
