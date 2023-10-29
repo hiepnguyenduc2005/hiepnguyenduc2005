@@ -1,4 +1,4 @@
-[![Header](https://github.com/hiepnguyenduc2005/hiepnguyenduc2005/blob/main/1.2-compressed.jpg "Header")](http://positivevsnegative.pythonanywhere.com/)
+[![Header](https://github.com/hiepnguyenduc2005/hiepnguyenduc2005/blob/main/profile.jpg "Header")](http://positivevsnegative.pythonanywhere.com/)
 
 # Introduction
 👋 Hi everyone, I am Hiep (Roger) Nguyen, an honors freshman in Computer Science at Villanova University. I am also exploring a double major in Economics and a concentration in Cognitive Science, underlining my enthusiasm for the intersection of technology, economics, and human cognition.
