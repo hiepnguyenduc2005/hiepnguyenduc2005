@@ -7,6 +7,8 @@
 
 💞️ My deep-rooted interest in Education propels my vision: applying Cognitive AI in behavioral economics or personalized STEM Education. My long-term goal is to develop an ecosystem where Vietnamese children can access personalized learning with high-quality and zero-cost science resources.
 
+You can find me on [![LinkedIn][3.2]][3].
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
@@ -18,6 +20,18 @@
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+
+<!-- links to social media icons -->
+
+<!-- icons without padding -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: mailto:hiepnguyenduc2005@gmail.com
+[2]: https://www.linkedin.com/in/heinz-martin/
 
 
 <!---
