@@ -23,10 +23,10 @@
 
 ## 📈 GitHub Stats
 <a href="https://github.com/hiepnguyenduc2005/hiepnguyenduc2005/">
-  <img align="center" src="https://raw.githubusercontent.com/hiepnguyenduc2005/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img align="center" src="https://github.com/hiepnguyenduc2005/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Roger's GitHub Stats"/>
 </a>
 <a href="https://github.com/hiepnguyenduc2005/hiepnguyenduc2005/">
-  <img align="center" src="https://raw.githubusercontent.com/hiepnguyenduc2005/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Roger's GitHub Stats" />
+  <img align="center" src="https://github.com/hiepnguyenduc2005/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Roger's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
