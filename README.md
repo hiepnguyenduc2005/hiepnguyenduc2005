@@ -5,7 +5,7 @@
 
 🌱In addition to attending every rigorous course, hackathon, project-based program, and programming competition I can find, I enjoy learning new languages and frameworks for side projects. I am currently building most frequently with: **Python, HTML, and CSS**. 
 
-💞️ My deep-rooted interest in Education propels my vision: applying ***Cognitive AI*** in behavioral economics or personalized STEM Education. My long-term goal is to develop an ecosystem where global children, especially those who are **Vietnamese**, can access personalized learning with high-quality and zero-cost science resources.
+💞️ My deep-rooted interest in Education propels my vision: applying ***Cognitive AI*** in behavioral economics or personalized STEM Education. My long-term goal is to develop an ecosystem where global children, especially **Vietnamese** students, can access personalized learning with high-quality and zero-cost science resources.
 
 🌐 You can find me on [![LinkedIn][1.1]][1] or [✉️](mailto:hiepnguyenduc2005@gmail.com).
 
