@@ -28,7 +28,6 @@
 <a href="https://github.com/hiepnguyenduc2005/hiepnguyenduc2005/">
   <img align="center" src="https://github.com/hiepnguyenduc2005/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Roger's GitHub Stats" />
 </a>
-[![Hiep's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiepnguyenduc2005)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- links to social media icons -->
 
