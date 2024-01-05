@@ -1,7 +1,7 @@
 [![Header](https://github.com/hiepnguyenduc2005/hiepnguyenduc2005/blob/main/profile.jpg "Header")](https://hiepnguyenduc2005.github.io/)
 
 # 👨‍🎓 Introduction
-👋 Hi everyone, I am **Hiep (Roger) Nguyen**, an honors freshman in *Computer Science* at  ***Villanova University***. I am also exploring a double major in Economics and a concentration in Cognitive Science, underlining my enthusiasm for the intersection of technology, economics, and human cognition.
+👋 Hi everyone, I am **Hiep (Roger) Nguyen**, an honors freshman in *Computer Science* at  ***Villanova University***. I am also exploring a double major in *Economics* and a concentration in *Cognitive Science*, underlining my enthusiasm for the intersection of technology, economics, and human cognition.
 
 🌱In addition to attending every rigorous course, hackathon, project-based program, and programming competition I can find, I enjoy learning new languages and frameworks for side projects. I am currently building most frequently with: **Python, HTML, and CSS**. 
 
