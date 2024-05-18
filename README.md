@@ -1,9 +1,9 @@
 [![Header](https://github.com/hiepnguyenduc2005/hiepnguyenduc2005/blob/main/profile.jpg "Header")](https://hiepnguyenduc2005.github.io/)
 
 # 👨‍🎓 Introduction
-👋 Hi everyone, I am **Hiep (Roger) Nguyen**, an honors freshman in *Computer Science* at  ***Villanova University***. I am also exploring a double major in *Economics* and a concentration in *Cognitive Science*, underlining my enthusiasm for the intersection of technology, economics, and human cognition.
+👋 Hi everyone, I am **Hiep (Roger) Nguyen**, a rising honors sophomore in *Computer Science* at  ***Villanova University***. I am also exploring a double major in *Economics* and a concentration in *Cognitive Science*, underlining my enthusiasm for the intersection of technology, economics, and human cognition.
 
-🌱In addition to attending every rigorous course, hackathon, project-based program, and programming competition I can find, I enjoy learning new languages and frameworks for side projects. I am currently building most frequently with: **Python, HTML, and CSS**. 
+🌱In addition to attending every rigorous course, hackathon, project-based program, and programming competition I can find, I enjoy learning new languages and frameworks for side projects. I am currently building most frequently with: **Python, HTML, CSS, and JavaScript**. Also, check out my recommended self-study course list for computer science undergraduates: [CS Undergraduate Topics](https://github.com/hiepnguyenduc2005/computer-science-self-study)
 
 💞️ My deep-rooted interest in Education propels my vision: applying ***Cognitive AI*** in behavioral economics or personalized STEM Education. My long-term goal is to develop an ecosystem where global children, especially **Vietnamese** students, can access personalized learning with high-quality and zero-cost science resources.
 
